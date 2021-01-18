@@ -1,5 +1,5 @@
 ### Hi there, I'm [Alkesha](https://alkeshabaikar.live) 👋
-Welcome to my github profile 😀
+Welcome to my Github profile 😀
 
 <br>
 
