@@ -37,7 +37,7 @@ Welcome to my Github profile 😀
 <a href="https://github.com/freesoul84" target="_blank"><img alt="Github" 
 src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
 </a> 
-<a href="https://twitter.com/alkeshab15" target="_blank"><img alt="Twitter" 
+<a href="https://twitter.com/ocean5791" target="_blank"><img alt="Twitter" 
 src="https://img.shields.io/badge/twitter-%2312100E.svg?&style=for-the-badge&logo=twitter&logoColor=blue" />
 </a> 
 <a href="https://www.linkedin.com/in/alkeshab" target="_blank"><img alt="LinkedIn" 
