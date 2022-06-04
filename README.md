@@ -7,7 +7,7 @@ Welcome to my Github profile 😀
 ![](https://komarev.com/ghpvc/?username=freesoul84)
 ![](https://visitor-badge.laobi.icu/badge?page_id=freesoul84.freesoul84)
 
-<p>I am a developer who is passionate about technologies like machine learning and computer vision. I enjoy working in  Python, JavaScript and PHP. I am actively looking for opportunities in Machine Learning. :)</p>
+<p>I am a developer who is passionate about big data technologies and machine learning. I enjoy working in Python. I am actively looking for opportunities in Big Data Engineering. :)</p>
 
 <hr/>
 
