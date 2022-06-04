@@ -52,7 +52,7 @@ src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo
 <hr/>
 
 ## 🔗 <b> See my portfolio :</b>
-<p href="https://alkeshabaikar.live" target="_blank">https://alkeshabaikar.live</p>
+<p href="https://alkeshab.tk" target="_blank">https://alkeshab.tk</p>
 <hr/>
 
 ## Thanks for visiting my profile 🙂
