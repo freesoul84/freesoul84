@@ -14,15 +14,15 @@ Welcome to my Github profile 😀
 ## 🔧 <b>Technologies & Tools :</b>
 <p>
 <code><img height="28" src="https://cdn.svgporn.com/logos/python.svg"></code>
-  <code><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg"></code>
-  <code><img height="28" src="https://cdn.svgporn.com/logos/numpy.svg"></code>
+<code><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg"></code>
+<code><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg"></code>
+<code><img height="28" src="https://cdn.svgporn.com/logos/numpy.svg"></code>
+<code><img height="28" src="https://cdn.svgporn.com/logos/git-icon.svg"></code>
+<code><img height="28" src="https://cdn.svgporn.com/logos/jupyter.svg"></code>
 <code><img height="28" src="https://cdn.svgporn.com/logos/javascript.svg"></code>
 <code><img height="28" src="https://cdn.svgporn.com/logos/bootstrap.svg"></code>
 <code><img height="28" src="https://cdn.svgporn.com/logos/css-3.svg"></code>
 <code><img height="28" src="https://cdn.svgporn.com/logos/flask.svg"></code>
-<code><img height="28" src="https://cdn.svgporn.com/logos/git-icon.svg"></code>
-<code><img height="28" src="https://cdn.svgporn.com/logos/jupyter.svg"></code>
-<code><img height="28" src="https://cdn.svgporn.com/logos/php.svg"></code>
 </p>
 
 <hr/>
